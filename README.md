@@ -1,5 +1,5 @@
 # Adventure game
-ni adalah game petualangan pertama saya menggunakan Python. Program ini menggunakan input/output dasar untuk membuat interaksi sederhana dengan pemain.
+ini adalah game petualangan pertama saya menggunakan Python. Program ini menggunakan input/output dasar untuk membuat interaksi sederhana dengan pemain.
 
 <h1 style="text-align:center;">Game Petualangan Virtual</h1>
 Ini adalah game petualangan berbasis teks menggunakan Python. Pemain akan dibantu oleh Nova, asisten AI, untuk menghadapi berbagai tantangan.
